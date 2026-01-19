@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Any Minecraft verions past 1.21.9 currently have a Iris issue which causes **inverted lightmaps**. You can still use the shader, but lighting might be off. This is not an issue with this project, but rather with Iris.
 
-![Dither Shaderpack Banner](Banner.png)
+![Dither Shaderpack Banner](https://cdn.modrinth.com/data/cached_images/e17fde2e2dcc1557619af4810aa537e7f149b214.png)
 
 # Dither
 
@@ -9,7 +9,7 @@ Dither is a high-performance stylized shaderpack that aims to recreate hand-draw
 
 Including per pixel dithering, custom palette posterization (it will use only the colors in a palette to display minecraft), edge detection for sharp outlines, as well as crisp downsampling for a low resolution look.
 
-![PVP Legacy Roman Arena Map + Crimson Lospec Palette](BannerOne.png)
+![PVP Legacy Roman Arena Map + Crimson Lospec Palette](https://cdn.modrinth.com/data/cached_images/6d3c69c7f3936b79ab648e1de714feafb61dc570.png)
 
 ## Using Custom Palettes
 
@@ -21,7 +21,7 @@ https://snorfield.github.io/palette-to-shader/
 
 After saving the file, make sure to **reload** the shaderpack. Alternatively if you don't wish to find your own palette, there's a text file named `palettes.txt` in the shaderpack from which you can copy some pre-generated palettes! 
 
-![PVP Legacy KitPVP Arena + Eulbink Lospec Palette](BannerThree.png)
+![PVP Legacy KitPVP Arena + Eulbink Lospec Palette](https://cdn.modrinth.com/data/cached_images/80c06af84f5b3c5933299e7295e515586ada4b0c.png)
 
 ## FQA
 
@@ -41,6 +41,12 @@ After saving the file, make sure to **reload** the shaderpack. Alternatively if 
   <summary>How do I edit settings?</summary>
   
   Navigate to your shader selection screen and click on "Shader Settings" for the options menu.
+</details>
+
+<details>
+  <summary>Why does the lighting look weird?</summary>
+  
+  Iris currently has an issue with lightmaps which causes inverted lighting. Any version above and including 1.21.9 is affected as of now. It is recommended to use 1.21.8 to play with this shaderpack.
 </details>
 
 <details>
@@ -81,5 +87,4 @@ After saving the file, make sure to **reload** the shaderpack. Alternatively if 
   I'll keep looking into it and update the shader if I ever find an easier solution.
 </details>
 
-![PVP Legacy Grand Sky Islands Mod + SLSO8 Lospec Palette](BannerTwo.png)
-
+![PVP Legacy Grand Sky Islands Mod + SLSO8 Lospec Palette](https://cdn.modrinth.com/data/cached_images/17e2386d1789505e04f63796a49ffc57ad9fe61b.png)
