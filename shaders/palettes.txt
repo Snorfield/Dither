@@ -1,0 +1,109 @@
+// Twilight 5
+// Palette by Star
+// https://lospec.com/palette-list/twilight-5
+
+const int colorNum = 5;
+vec3 colors[colorNum] = vec3[](
+   vec3(0.9843137, 0.7333333, 0.6784314),
+   vec3(0.9333333, 0.5254902, 0.5843137),
+   vec3(0.2901961, 0.4784314, 0.5882353),
+   vec3(0.2000000, 0.2470588, 0.3450980),
+   vec3(0.1607843, 0.1568627, 0.1921569)
+);
+const vec3 darkColor = vec3(0.1607843, 0.1568627, 0.1921569);
+const vec3 lightColor = vec3(0.9843137, 0.7333333, 0.6784314);
+
+
+
+
+// Crimson
+// Palette by WildLeoKnight
+// https://lospec.com/palette-list/crimson
+
+const int colorNum = 4;
+vec3 colors[colorNum] = vec3[](
+   vec3(0.9372549, 0.9764706, 0.8392157),
+   vec3(0.7294118, 0.3137255, 0.2666667),
+   vec3(0.4784314, 0.1098039, 0.2941176),
+   vec3(0.1058824, 0.0117647, 0.1490196)
+);
+const vec3 darkColor = vec3(0.1058824, 0.0117647, 0.1490196);
+const vec3 lightColor = vec3(0.9372549, 0.9764706, 0.8392157);
+
+
+
+
+// SLSO8
+// Palette by Luis Miguel Maldonado
+// https://lospec.com/palette-list/slso8
+
+const int colorNum = 8;
+vec3 colors[colorNum] = vec3[](
+   vec3(0.0509804, 0.1686275, 0.2705882),
+   vec3(0.1254902, 0.2352941, 0.3372549),
+   vec3(0.3294118, 0.3058824, 0.4078431),
+   vec3(0.5529412, 0.4117647, 0.4784314),
+   vec3(0.8156863, 0.5058824, 0.3490196),
+   vec3(1.0000000, 0.6666667, 0.3686275),
+   vec3(1.0000000, 0.8313725, 0.6392157),
+   vec3(1.0000000, 0.9254902, 0.8392157)
+);
+const vec3 darkColor = vec3(0.0509804, 0.1686275, 0.2705882);
+const vec3 lightColor = vec3(1.0000000, 0.9254902, 0.8392157);
+
+
+
+
+// Eulbink
+// Palette by Inkpendude 
+// https://lospec.com/palette-list/eulbink
+
+const int colorNum = 7;
+vec3 colors[colorNum] = vec3[](
+   vec3(1.0000000, 1.0000000, 1.0000000),
+   vec3(0.0470588, 0.9019608, 0.9490196),
+   vec3(0.0000000, 0.5960784, 0.8588235),
+   vec3(0.1176471, 0.3411765, 0.6117647),
+   vec3(0.1254902, 0.2078431, 0.3843137),
+   vec3(0.1450980, 0.1411765, 0.2745098),
+   vec3(0.1254902, 0.0823529, 0.2000000)
+);
+const vec3 darkColor = vec3(0.1254902, 0.0823529, 0.2000000);
+const vec3 lightColor = vec3(1.0000000, 1.0000000, 1.0000000);
+
+
+
+// Cloudfrenzy
+// Palette by pxlsamosa
+// https://lospec.com/palette-list/cloudfrenzy
+
+const int colorNum = 6;
+vec3 colors[colorNum] = vec3[](
+   vec3(0.9568627, 0.7686275, 0.8313725),
+   vec3(0.9176471, 0.5725490, 0.6705882),
+   vec3(0.6862745, 0.4980392, 0.7607843),
+   vec3(0.5647059, 0.5215686, 0.8156863),
+   vec3(0.5490196, 0.4627451, 0.7450980),
+   vec3(0.3803922, 0.3372549, 0.4901961)
+);
+const vec3 darkColor = vec3(0.3803922, 0.3372549, 0.4901961);
+const vec3 lightColor = vec3(0.9568627, 0.7686275, 0.8313725);
+
+
+
+
+// Oil 6
+// Palette by 
+// https://lospec.com/palette-list/oil-6
+
+const int colorNum = 6;
+vec3 colors[colorNum] = vec3[](
+   vec3(0.9843137, 0.9607843, 0.9372549),
+   vec3(0.9490196, 0.8274510, 0.6705882),
+   vec3(0.7764706, 0.6235294, 0.6470588),
+   vec3(0.5450980, 0.4274510, 0.6117647),
+   vec3(0.2862745, 0.3019608, 0.4941176),
+   vec3(0.1529412, 0.1529412, 0.2666667)
+);
+const vec3 darkColor = vec3(0.1529412, 0.1529412, 0.2666667);
+const vec3 lightColor = vec3(0.9843137, 0.9607843, 0.9372549);
