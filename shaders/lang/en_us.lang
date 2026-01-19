@@ -1,0 +1,20 @@
+option.OUTLINE = Outline
+option.OUTLINE_WIDTH = Outline Width
+option.OUTLINE_SHADE = Outline Shade
+option.PIXELS = Pixel Size
+option.DITHERING = Dithering
+option.DITHER_THRESHOLD = Dither Threshold
+option.VIGNETTE = Vignette
+option.VIGNETTE_SIZE = Vignette Size
+
+value.OUTLINE_SHADE.1 = Lightest Color
+value.OUTLINE_SHADE.0 = Darkest Color
+
+option.OUTLINE.comment = Adds an outline over sharp jumps in depth
+option.OUTLINE_WIDTH.comment = Controls the width of the outline
+option.OUTLINE_SHADE.comment = Controls if the outline color is the darkest or lightest palette color
+option.PIXELS.comment = Controls the size of the pixels
+option.DITHERING.comment = Turns dithering on and off
+option.DITHER_THRESHOLD.comment = Controls the threshold for dithering
+option.VIGNETTE.comment = Toggles vignette on and off
+option.VIGNETTE_SIZE.comment = Controls the size of the vignette
